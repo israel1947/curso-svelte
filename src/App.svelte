@@ -7,7 +7,7 @@
 
 <main>
 	<h1>Hello {name} {apellido}!</h1>
-	<Abaut></Abaut>
+	<Abaut />
 </main>
 
 <style>
@@ -15,7 +15,7 @@
 		--colo-prueba: #880488;
 	}
 
-	p{
+	p {
 		color: var(--colo-prueba);
 	}
 
